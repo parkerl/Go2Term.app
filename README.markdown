@@ -18,3 +18,10 @@ Installation
 ![Drag to toolbar](http://dl.dropbox.com/u/3581275/Screens/ugvektm47phg.JPG)
 
 When you click the Go2Term icon it will open an iTerm session cand `cd` into the topmost Finder window's current path.
+
+Credits
+-------------------------
+
+* iTerm2 awesomeness by George Nachman
+
+* Go2Term silliness by Lew Parker
