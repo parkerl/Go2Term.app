@@ -11,7 +11,7 @@ Installation
 
 2. Clone this repo into /Applications
 
-    git clone git@github.com:parkerl/Go2Term.app.git 
+        git clone git@github.com:parkerl/Go2Term.app.git 
     
 3. The best way to use it is to drag it onto the Finder toolbar.
 
